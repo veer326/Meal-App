@@ -13,4 +13,7 @@ Click on a meal card to view detailed information.
 Use the "More Details" button to view the full details of a meal.
 Click the heart icon to add/remove a meal from your favorites.
 
+# Contributing
+Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.
+
 # Hosted Link :
